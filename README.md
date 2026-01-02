@@ -17,8 +17,5 @@
 ## 一行安装并运行（推荐）
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/a941249849/shelby-LiuNeng/main/shelby-menu.sh \
-  -o shelby-menu.sh \
-&& chmod +x shelby-menu.sh \
-&& ./shelby-menu.sh
+curl -fsSL https://raw.githubusercontent.com/a941249849/shelby-LiuNeng/main/install.sh | bash
 
